@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<island>
+    <width>100</width>
+	<height>20</height>
+    <animals>
+		<animal class="Wolf" count="15"  />
+		<animal class="Boa" count="15"  />
+		<animal class="Fox" count="18"  />
+		<animal class="Bear" count="16"  />
+		<animal class="Eagle" count="15"  />
+		<animal class="Horse" count="13"  />
+		<animal class="Deer" count="17"  />
+		<animal class="Rabbit" count="13"  />
+		<animal class="Mouse" count="19"  />
+		<animal class="Goat" count="13"  />
+		<animal class="Sheep" count="13"  />
+		<animal class="Boar" count="13"  />
+		<animal class="Buffalo" count="13"  />
+		<animal class="Duck" count="13"  />
+		<animal class="Caterpillar" count="20"  />
+
+		
+		
+    </animals>
+</island>
