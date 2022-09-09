@@ -55,7 +55,7 @@ public class Starter {
         }
 
         try {
-            IslandModel.islandCreate(islandWidth, islandWidth, appearedAnimals);
+            IslandModel.islandCreate(islandHeight, islandWidth, appearedAnimals);
         } catch (Exception e) {
             e.printStackTrace();
         }
